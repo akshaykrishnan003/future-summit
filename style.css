@@ -154,7 +154,7 @@
 
 .bgChange {
   background: url("poper.gif");
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom;
 }
